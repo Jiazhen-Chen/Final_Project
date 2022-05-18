@@ -13,5 +13,5 @@
 #### Final Remarks:
 After running the "main_direct.py" and "main_modified.py" programs, the model can be used to predict fluxes using the command "mpnn.predict(dataset_name)" where dataset_name is the input data variable name. For checking the training/validation predictions, replace "dataset_name" with "train_data" and/or "val_data". The values however, are all zeros for both neural networks.
 <html>
-  <img source="https://i.imgflip.com/4aiftp.jpg" height="200">
+  <img src="https://i.imgflip.com/4aiftp.jpg" height="200">
 </html>
