@@ -1,11 +1,11 @@
 # Final_Project
-'''html
+<div class="panel-body">
 <p align="center">
   <img src="https://codingbootcamps.io/wp-content/uploads/m1.png" height="200">
   <img src="https://i.imgflip.com/4aiftp.jpg" height="200">
   <img src="https://codingbootcamps.io/wp-content/uploads/m7.png" height="200">
 </p>
-'''
+</div>
 #### Folders:
 1. "Data" Folder contains the raw data for enzyme activities and flux from Lo-Thong et al, in a .csv format.
 2. "Converted Data" Folder contains the data in the form of numpy arrays after preliminary data treatment. The data is converted from the .csv file saved here using data_conversion.py.
